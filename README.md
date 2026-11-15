@@ -1,4 +1,5 @@
 # Robustness of a Pretrained Pose Estimator to Image Degradation
+*Developed during my Fall 2025 Computer Vision exchange at the University of Helsinki.*
 
 How does the keypoint accuracy of a pretrained pose model (YOLOv8n-pose) degrade under controlled image corruptions, and does it depend on how large the person is in the image? Evaluated on COCO val2017 person keypoints with COCO keypoint AP and paired bootstrap confidence intervals over images.
 
